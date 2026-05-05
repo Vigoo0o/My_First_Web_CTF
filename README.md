@@ -110,7 +110,7 @@ The secret page hints at a hidden file. Can you reach it as the right user?
 
 <details>
 <summary>Hint 4 — Decoding</summary>
-The flag is encoded. ROT13 is a classic cipher — try decoding it.
+The flag is encoded. Causer is a classic cipher — try decoding it.
 </details>
 
 ---
