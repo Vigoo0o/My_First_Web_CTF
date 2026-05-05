@@ -127,8 +127,6 @@ The flag is encoded. Causer is a classic cipher — try decoding it.
 ## 📚 Learning Resources
 
 - [TryHackMe](https://tryhackme.com) — Where this project was inspired
-- [OWASP Top 10](https://owasp.org/www-project-top-ten/) — Web vulnerabilities reference
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — SQL Injection labs
 
 ---
 
