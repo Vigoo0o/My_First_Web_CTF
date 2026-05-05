@@ -57,7 +57,7 @@ Download from [apachefriends.org](https://www.apachefriends.org)
 
 **2. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ctf-auth-challenge.git
+git clone https://github.com/Vigoo0o/My_First_Web_CTF.git
 ```
 
 **3. Copy to web root**
